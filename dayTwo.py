@@ -16,7 +16,7 @@ for i in a:
 # 2 write function that takes two lists and returns them merged and sorted
 
 list1 = [1, 45, 23, 22, 8, 17, 28, 40]
-list2 = [36, 41, 3, 9, 50, 21, 10, 39]
+list2 = [36, 41, 3, 9, 50, 22, 10, 39]
 
 def linear_merge(list1, list2):
     result = []
